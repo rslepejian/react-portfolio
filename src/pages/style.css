@@ -1,4 +1,8 @@
-#name, #email, #phone {
+#link-list {
     text-align: center;
     padding-bottom: 15px;
+}
+
+h5 {
+    text-align: center;
 }

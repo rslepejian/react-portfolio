@@ -1,0 +1,10 @@
+#footer {
+    bottom: 0;
+    position: absolute;
+    align-self: center;
+    width: 100%;
+}
+
+#stuff {
+    text-align: center;
+}
