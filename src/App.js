@@ -12,15 +12,15 @@ function App() {
   return (
     <div id="all">
       <Router basename="/">
-          <NavTabs />
-          <Header />
-          <Switch>
-            <Route exact path="/react-portfolio" component={Home} />
-            <Route exact path="react-portfolio/projects" component={Projects} />
-            <Route exact path="react-portfolio/about" component={About} />
-            <Route path="/react-portfolio/" component={Home} />
-          </Switch>
-          <Footer />
+        <NavTabs />
+        <Header />
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/react-portfolio/projects" component={Projects} />
+          <Route exact path="/react-portfolio/about" component={About} />
+          <Route component={Home} />
+        </Switch>
+        <Footer />
       </Router>
     </div>
   );

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Database Crawler",
+        "image": "https://i.imgur.com/tIeMzKk.png",
+        "link": "https://ancient-wave-96254.herokuapp.com/",
+        "text": "A text based game that uses sequelize to store all persistent data.",
+        "github": "https://github.com/austinwoo123/Database-Crawler"
+    },
+    {
+        "id": 2,
+        "name": "Project Tantalus",
+        "image": "https://github.com/spenrad/Project-Tantalus/raw/master/images/tantalus.gif",
+        "link": "https://spenrad.github.io/Project-Tantalus/",
+        "text": "A website that uses apis to help you find something to eat.",
+        "github": "https://github.com/spenrad/Project-Tantalus"
+    },
+    {
+        "id": 3,
+        "name": "Employee Directory",
+        "image": "https://github.com/rslepejian/employee-directory/raw/master/employeePreview.png",
+        "link": "https://rslepejian.github.io/employee-directory/",
+        "text": "A website that uses react to organize and allow searches in randomly generated test users.",
+        "github": "https://github.com/rslepejian/employee-directory"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/rslepejian/Weather-Dashboard/raw/main/assets/preview.png",
+        "link": "https://rslepejian.github.io/Weather-Dashboard/",
+        "text": "A website that uses the openweather api to allow you to see the weather in a city by searching for it.",
+        "github": "https://github.com/rslepejian/Weather-Dashboard"
+    },
+    {
+        "id": 5,
+        "name": "Exercise Tracker",
+        "image": "https://github.com/rslepejian/excercice-tracker/raw/master/exercisePreview.png",
+        "link": "https://desolate-anchorage-72330.herokuapp.com/",
+        "text": "An exercise tracker that allows a user to save workouts comprised of several exercises and see stats for their recent workouts.",
+        "github": "https://github.com/rslepejian/excercice-tracker"
+    },
+    {
+        "id": 6,
+        "name": "Note Taker",
+        "image": "https://github.com/rslepejian/note-taker/raw/main/preview.png",
+        "link": "https://protected-escarpment-29397.herokuapp.com/",
+        "text": "An application that allows a user to take, delete, and view notes. Data persists between visits.",
+        "github": "https://github.com/rslepejian/note-taker"
+    }
+]
