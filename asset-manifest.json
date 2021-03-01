@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.57f0bfae.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.b1e319d7.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.b1e319d7.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.a74873c1.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.a74873c1.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.a2bd589c.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.a2bd589c.js.map",
     "static/js/2.60dad2ec.chunk.js": "/react-portfolio/static/js/2.60dad2ec.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/react-portfolio/index.html",
     "static/css/main.57f0bfae.chunk.css.map": "/react-portfolio/static/css/main.57f0bfae.chunk.css.map",
     "static/js/2.60dad2ec.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.60dad2ec.chunk.js.LICENSE.txt",
+    "static/media/Raffi_Lepejian_Resume.a378da6f.pdf": "/react-portfolio/static/media/Raffi_Lepejian_Resume.a378da6f.pdf",
     "static/media/App.css": "/react-portfolio/static/media/unsplash_mountain.98787f54.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a2bd589c.js",
     "static/js/2.60dad2ec.chunk.js",
     "static/css/main.57f0bfae.chunk.css",
-    "static/js/main.b1e319d7.chunk.js"
+    "static/js/main.a74873c1.chunk.js"
   ]
 }
