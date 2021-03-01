@@ -15,10 +15,10 @@ function App() {
           <NavTabs />
           <Header />
           <Switch>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/react-portfolio" component={Home} />
             <Route exact path="react-portfolio/projects" component={Projects} />
             <Route exact path="react-portfolio/about" component={About} />
-            <Route path="/" component={Home} />
+            <Route path="/react-portfolio/" component={Home} />
           </Switch>
           <Footer />
       </Router>
