@@ -11,7 +11,7 @@ import Projects from "./pages/projects";
 function App() {
   return (
     <div id="all">
-      <Router basename="/react-portfolio">
+      <Router basename="/">
           <NavTabs />
           <Header />
           <Switch>
