@@ -12,8 +12,12 @@ function NavTabs() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
+            <Link to = {'/about'}>
             <a className="nav-link" href="/react-portfolio/about">About</a>
+            </Link>
+            <Link to = {'/projects'}>
             <a className="nav-link" href="/react-portfolio/projects">Projects</a>
+            </Link>
           </div>
         </div>
       </div>

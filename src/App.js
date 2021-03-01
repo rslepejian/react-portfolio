@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import NavTabs from "./components/NavTabs";
 import Header from "./components/header";
 import Footer from "./components/footer";
@@ -10,19 +10,20 @@ import Projects from "./pages/projects";
 
 function App() {
   return (
-    <div id="all">
-      <Router basename="/">
+    <Router basename="/">
+      <div id="all">
         <NavTabs />
         <Header />
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route exact path="/react-portfolio/projects" component={Projects} />
-          <Route exact path="/react-portfolio/about" component={About} />
+          <Route exact path="/projects" component={Projects} />
+          <Route exact path="/about" component={About} />
           <Route component={Home} />
         </Switch>
         <Footer />
-      </Router>
-    </div>
+
+      </div>
+    </Router >
   );
 }
 
