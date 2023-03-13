@@ -1,4 +1,4 @@
-# Employee Directory
+# React Portfolio
 
 ## Description
 This is a personal portfolio built using react. It showcases some of my recent projects.
