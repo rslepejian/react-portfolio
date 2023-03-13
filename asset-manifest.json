@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.57f0bfae.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.a74873c1.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.a74873c1.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.a2bd589c.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.a2bd589c.js.map",
-    "static/js/2.60dad2ec.chunk.js": "/react-portfolio/static/js/2.60dad2ec.chunk.js",
-    "static/js/2.60dad2ec.chunk.js.map": "/react-portfolio/static/js/2.60dad2ec.chunk.js.map",
-    "static/js/3.d847c00f.chunk.js": "/react-portfolio/static/js/3.d847c00f.chunk.js",
-    "static/js/3.d847c00f.chunk.js.map": "/react-portfolio/static/js/3.d847c00f.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.a2880bbc.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.88e34557.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.88e34557.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.efb47e9e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.efb47e9e.js.map",
+    "static/js/2.7442008e.chunk.js": "/react-portfolio/static/js/2.7442008e.chunk.js",
+    "static/js/2.7442008e.chunk.js.map": "/react-portfolio/static/js/2.7442008e.chunk.js.map",
+    "static/js/3.cfc57ff5.chunk.js": "/react-portfolio/static/js/3.cfc57ff5.chunk.js",
+    "static/js/3.cfc57ff5.chunk.js.map": "/react-portfolio/static/js/3.cfc57ff5.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.57f0bfae.chunk.css.map": "/react-portfolio/static/css/main.57f0bfae.chunk.css.map",
-    "static/js/2.60dad2ec.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.60dad2ec.chunk.js.LICENSE.txt",
+    "static/css/main.a2880bbc.chunk.css.map": "/react-portfolio/static/css/main.a2880bbc.chunk.css.map",
+    "static/js/2.7442008e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.7442008e.chunk.js.LICENSE.txt",
     "static/media/Raffi_Lepejian_Resume.a378da6f.pdf": "/react-portfolio/static/media/Raffi_Lepejian_Resume.a378da6f.pdf",
     "static/media/App.css": "/react-portfolio/static/media/unsplash_mountain.98787f54.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2bd589c.js",
-    "static/js/2.60dad2ec.chunk.js",
-    "static/css/main.57f0bfae.chunk.css",
-    "static/js/main.a74873c1.chunk.js"
+    "static/js/runtime-main.efb47e9e.js",
+    "static/js/2.7442008e.chunk.js",
+    "static/css/main.a2880bbc.chunk.css",
+    "static/js/main.88e34557.chunk.js"
   ]
 }
