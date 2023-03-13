@@ -7,7 +7,7 @@ function header() {
       <div className="container-fluid" id="header">
         <div className="row">
           <div className="col align-self-center" id="name">
-            <h1>Raffi Lepejian</h1>
+            <h1>Raffi Segal Lepejian</h1>
           </div>
         </div>
         <div className="row">
