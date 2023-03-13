@@ -1,6 +1,6 @@
 [
     {
-        "id": 3,
+        "id": 1,
         "name": "Project Tantalus",
         "image": "https://github.com/spenrad/Project-Tantalus/raw/master/images/tantalus.gif",
         "link": "https://spenrad.github.io/Project-Tantalus/",
@@ -8,7 +8,7 @@
         "github": "https://github.com/spenrad/Project-Tantalus"
     },
     {
-        "id": 4,
+        "id": 2,
         "name": "Employee Directory",
         "image": "https://github.com/rslepejian/employee-directory/raw/master/employeePreview.png",
         "link": "https://rslepejian.github.io/employee-directory/",
@@ -16,7 +16,7 @@
         "github": "https://github.com/rslepejian/employee-directory"
     },
     {
-        "id": 5,
+        "id": 3,
         "name": "Weather Dashboard",
         "image": "https://github.com/rslepejian/Weather-Dashboard/raw/main/assets/preview.png",
         "link": "https://rslepejian.github.io/Weather-Dashboard/",
